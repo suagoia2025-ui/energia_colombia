@@ -6,10 +6,11 @@
 |-----|---------|
 | **Documento** | XM S.A. E.S.P., *Reporte de gestión y sostenibilidad 2025* |
 | **Archivo en este proyecto** | `ARCHIVOS INFORMES/XM_ Reporte de gestión y sostenibilidad 2025 (1).pdf` |
-| **Página 52** | Sección **«Capacidad efectiva neta»**: CEN solar **1.928,02 → 1.594,08 MW**; atribución **principal** de la caída a la **finalización del periodo de transición** de **CREG 148/2021** y **CREG 101 011/2022**; **70 plantas (646,98 MW)** a **estado de pruebas**. |
 | **Página 20** | Cuadro de cifras del SIN y **nota al pie** del indicador **CEN**: desglose **47 plantas (581,40 MW)** por **CREG 148/2021** y **23 plantas (65,58 MW)** por **CREG 101 011/2022** (retorno a pruebas). |
+| **Página 51** | Texto de gestión: en **2025** se declaran en **operación comercial** **75** proyectos de generación; de ellos **68 solares** (**333,87 MW**), más hidráulicas y térmicas; **CEN total SIN** al **31-dic-2025** (**21.028,56 MW**). |
+| **Página 52** | (i) **Generación:** crecimiento **+35 %** en **generación solar** vs el año anterior (mismo párrafo que **+4 %** eólica). (ii) **«Capacidad efectiva neta»:** CEN solar **1.928,02 → 1.594,08 MW**; caída atribuida principalmente a la **finalización del periodo de transición** de **CREG 148/2021** y **CREG 101 011/2022**; **70 plantas (646,98 MW)** a **estado de pruebas**. |
 
-*La numeración de página corresponde a la del PDF lector (coincide con el folio impreso **52** en la página narrativa).*
+*La numeración de página es la del **visor PDF** del archivo (`XM_ Reporte… 2025 (1).pdf`). El folio impreso **«52»** aparece en el margen de la página que aquí llamamos **52** (bloque CEN + demanda + precio).*
 
 Marco legal (textos aparte en `ARCHIVOS LEGISLACION/`): **CREG 148/2021**, **CREG 101 005/2022**, **CREG 101 011/2022**.
 
@@ -21,12 +22,12 @@ No confundir **potencia instalada** o titulares de “MW nuevos” con la **Capa
 
 | Indicador | Valor (corte 31-dic-2025 / serie XM) |
 |-----------|----------------------------------------|
-| CEN solar | **1.928,02 MW → 1.594,08 MW** (baja neta **~334 MW**) |
-| Plantas que pasaron a **estado de pruebas** (explicación XM) | **70 plantas**, **646,98 MW** |
+| CEN solar | **1.928,02 MW → 1.594,08 MW** (baja neta **~334 MW**) — **p. 52** |
+| Plantas que pasaron a **estado de pruebas** (explicación XM) | **70 plantas**, **646,98 MW** — **p. 52** |
 
-XM atribuye la caída de CEN solar **principalmente** al **cierre del periodo de transición** de **CREG 148/2021** y **CREG 101 011/2022**.
+XM atribuye la caída de CEN solar **principalmente** al **cierre del periodo de transición** de **CREG 148/2021** y **CREG 101 011/2022** (**p. 52**).
 
-Desglose que da XM en el cuadro agregado de CEN:
+Desglose que da XM en el cuadro agregado de CEN (**nota al pie, p. 20**):
 
 - **CREG 148/2021:** **47 plantas** (**581,40 MW**) retornan a pruebas al terminar la transición.
 - **CREG 101 011/2022:** **23 plantas** (**65,58 MW**) retornan a pruebas al terminar la transición.
@@ -40,7 +41,9 @@ Suma: **70 plantas**, **581,40 + 65,58 = 646,98 MW** (coherente con el texto de 
 - **Efecto bruto (salida de CEN comercial hacia pruebas):** ~**647 MW**.
 - **Variación neta en la CEN solar:** ~**334 MW** de baja.
 
-Eso solo es compatible si, en el mismo periodo, entró **CEN solar nueva** del orden de **~313 MW** (orden de magnitud: **647 − 334**), lo que encaja con que en 2025 XM reporta **~333,87 MW** nuevos solares en **68** proyectos declarados en operación comercial. **Mensaje clave:** en 2025 **sí hubo incorporación solar**, pero la **reclasificación** por fin de transición fue **mayor en términos de CEN** que lo incorporado en esa métrica.
+Eso solo es compatible si, en el mismo periodo, entró **CEN solar nueva** del orden de **~313 MW** (orden de magnitud: **647 − 334**), lo que encaja con que en 2025 XM reporta **~333,87 MW** nuevos solares en **68** proyectos declarados en operación comercial (**p. 51**). **Mensaje clave:** en 2025 **sí hubo incorporación solar**, pero la **reclasificación** por fin de transición fue **mayor en términos de CEN** que lo incorporado en esa métrica.
+
+*Nota:* los **333,87 MW** y los **68** proyectos son **declaración en operación comercial** en el texto narrativo; la **CEN** al cierre es otro indicador (**p. 52**): por eso la aritmética compara **órdenes de magnitud**, no una identidad contable literal.
 
 ---
 
@@ -80,7 +83,7 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 - **En sentido amplio**, la energía es **política pública** (Leyes 142/143, **CREG**, **MME**): las reglas **sí afectan** al país.
 - La baja de **CEN solar** 2025 está explicada por **normas publicadas en 2021–2022** y **fechas fijas** (p. ej. **1 mar 2025** en **101 005**): es un **efecto de calendario regulatorio** **previsible**, no necesariamente una “decisión política repentina de 2025”.
-- Para no confundir indicadores: en el mismo informe XM se reporta **crecimiento** de **generación solar** en términos relativos (**+35 %** vs el año anterior, cifra citada por XM), mientras la **CEN solar** puede bajar por **reclasificación** y **pruebas**.
+- Para no confundir indicadores: en el mismo informe XM se reporta **crecimiento** de **generación solar** en términos relativos (**+35 %** vs el año anterior; **p. 52**, mismo bloque que el **+4 %** eólico), mientras la **CEN solar** puede bajar por **reclasificación** y **pruebas** (**p. 52**, sección «Capacidad efectiva neta»).
 
 ---
 
@@ -96,7 +99,7 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 - Dónde **sí encaja** ANIF en un análisis amplio del sector: si la CREG tiene **cuellos de botella** en **gobernanza** y **agenda**, puede **retrasar** reformas **post transitorio** (p. ej. reglas **definitivas** del Reglamento de Distribución que las resoluciones transitorias anticipan), **análisis de impacto** o **transparencia** — factores que importan para **inversión** y **previsibilidad** en **solar y ER**, **aparte** del efecto puntual sobre **CEN 2025**.
 
-- **Conclusión de encaje:** mantener **dos pistas separadas**: (1) **mecánica CEN 2025** = transiciones **CREG 148 / 101 011** y **estado de pruebas**; (2) **debate institucional** = ANIF y otros sobre **comisionados**, **resoluciones** y **agenda**. Cruzarlos solo con **hipótesis explícitas** (p. ej. futura norma retrasada), no como sustituto de la explicación que da **XM** en las págs. 20 y 52.
+- **Conclusión de encaje:** mantener **dos pistas separadas**: (1) **mecánica CEN 2025** = transiciones **CREG 148 / 101 011** y **estado de pruebas**; (2) **debate institucional** = ANIF y otros sobre **comisionados**, **resoluciones** y **agenda**. Cruzarlos solo con **hipótesis explícitas** (p. ej. futura norma retrasada), no como sustituto de la explicación que da **XM** en las págs. **20**, **51** y **52**.
 
 ### Procuraduría General de la Nación (diciembre 2024)
 
@@ -118,8 +121,8 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 ## 7. Frase lista para argumentar
 
-> La reducción de la CEN solar en 2025 está documentada por XM como **cierre de transiciones CREG** y paso a **estado de pruebas** en **70 plantas (~647 MW)**; la **variación neta** de la CEN solar es menor porque **entró** capacidad solar nueva en el año. **CEN ≠ MW instalados ni solo “MW nuevos”**: depende del **estado regulatorio** y de las **pruebas** tras la transición.
+> La reducción de la CEN solar en 2025 está documentada por XM (**p. 52**) como **cierre de transiciones CREG** y paso a **estado de pruebas** en **70 plantas (~647 MW)**; el desglose **47 + 23** plantas está en la **nota al pie** del cuadro de CEN (**p. 20**). La **variación neta** de la CEN solar es menor porque **entró** capacidad solar nueva en el año (**68** proyectos, **~333,87 MW** declarados en operación comercial, **p. 51**). **CEN ≠ MW instalados ni solo “MW nuevos”**: depende del **estado regulatorio** y de las **pruebas** tras la transición.
 
 ---
 
-*Documento elaborado a partir del reporte XM 2025 (págs. 20 y 52), las resoluciones CREG enlazadas en el repositorio y el contexto de gobernanza ANIF, Procuraduría y cobertura en prensa (sección 6).*
+*Documento elaborado a partir del reporte XM 2025 — págs. **20** (nota CEN 47/23), **51** (68 solares / 333,87 MW operación comercial), **52** (+35 % generación solar y texto CEN solar) —, las resoluciones CREG en `ARCHIVOS LEGISLACION/`, y el contexto ANIF, Procuraduría (PDF, ~**40–45**) y prensa (§6).*
