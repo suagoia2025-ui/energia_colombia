@@ -84,10 +84,34 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 ---
 
-## 6. Frase lista para argumentar
+## 6. Aporte de contexto: ANIF sobre gobernanza de la CREG (marzo 2024)
+
+*Fuente complementaria:* ANIF, *Informe semanal* **«La preocupante inoperancia de la CREG»** (4 mar 2024). Texto en `NEWS/creg-anif-inoperancia-2024.md`; publicación web y PDF en [anif.com.co](https://www.anif.com.co/informe-semanal/la-preocupante-inoperancia-de-la-creg/).
+
+### Qué aporta al mismo debate (sin mezclar causas)
+
+- ANIF describe un problema de **operatividad institucional**: **interinidad**, **falta de comisionados en propiedad** y efectos sobre el **volumen de resoluciones** (caída en los últimos años, nivel bajo en **2023**) y **incumplimiento** frente a la **agenda regulatoria** prevista, con énfasis en **gas**. Eso habla de **capacidad de la CREG para producir norma en tiempo y forma**, no del **contenido** de las resoluciones **148** o **101 011** ya expedidas.
+
+- La **baja de CEN solar en 2025** que documenta XM está **atada a textos y plazos** de esas resoluciones (**transición** y **pruebas**). Eso es **ajuste por calendario y cumplimiento** de normas **ya existentes**; **no** se deduce del informe XM que esa baja se deba a la **parálisis** o al **número de resoluciones** en el agregado anual que señala ANIF para **2023–2024**.
+
+- Dónde **sí encaja** ANIF en un análisis amplio del sector: si la CREG tiene **cuellos de botella** en **gobernanza** y **agenda**, puede **retrasar** reformas **post transitorio** (p. ej. reglas **definitivas** del Reglamento de Distribución que las resoluciones transitorias anticipan), **análisis de impacto** o **transparencia** — factores que importan para **inversión** y **previsibilidad** en **solar y ER**, **aparte** del efecto puntual sobre **CEN 2025**.
+
+- **Conclusión de encaje:** mantener **dos pistas separadas**: (1) **mecánica CEN 2025** = transiciones **CREG 148 / 101 011** y **estado de pruebas**; (2) **debate institucional** = ANIF y otros sobre **comisionados**, **resoluciones** y **agenda**. Cruzarlos solo con **hipótesis explícitas** (p. ej. futura norma retrasada), no como sustituto de la explicación que da **XM** en las págs. 20 y 52.
+
+### Procuraduría General de la Nación (diciembre 2024)
+
+*Fuente complementaria (ente de control):* **Procuraduría General de la Nación**, *Colombia y la Transición Energética: Reflexiones y recomendaciones sobre una transición hecha a la medida de nuestro país* (dic. 2024). PDF en `ARCHIVOS LEGISLACION/Colombia y la Transición Energética VF VF PROCURADURIA.pdf`; resumen de pasajes sobre la CREG en `NEWS/procuraduria-colombia-transicion-energetica-2024.md`.
+
+- El informe dedica el subapartado **«Debilidad institucional que se presenta en la Comisión de Regulación de Energía y Gas – CREG –»** (aprox. págs. **40–45**) a la **interinidad**, **alertas** de la PGN desde **octubre de 2023**, la preocupación de **Contraloría** y **gremios** por **vacancia / parálisis**, **quórum** en tramos de **2023–2024**, **sentencias de la Sección Quinta del Consejo de Estado** (2024) sobre **encargos** y **independencia** del regulador, y el vínculo con **incertidumbre de inversión** y **transición energética** (tarifas, renovables, etc.).
+
+- **Función argumentativa:** refuerza con **voz institucional estatal** el mismo hilo que ANIF y la prensa: **riesgo de gobernanza** en la CREG; sigue **sin** explicar por sí solo la **caída de CEN solar 2025**, que XM atribuye a **transiciones y pruebas** ya normadas.
+
+---
+
+## 7. Frase lista para argumentar
 
 > La reducción de la CEN solar en 2025 está documentada por XM como **cierre de transiciones CREG** y paso a **estado de pruebas** en **70 plantas (~647 MW)**; la **variación neta** de la CEN solar es menor porque **entró** capacidad solar nueva en el año. **CEN ≠ MW instalados ni solo “MW nuevos”**: depende del **estado regulatorio** y de las **pruebas** tras la transición.
 
 ---
 
-*Documento elaborado a partir del análisis conjunto del reporte XM 2025 (págs. 20 y 52 del PDF citado arriba) y los textos de las resoluciones CREG enlazadas.*
+*Documento elaborado a partir del reporte XM 2025 (págs. 20 y 52), las resoluciones CREG enlazadas en el repositorio y el contexto de gobernanza ANIF y Procuraduría (sección 6).*
