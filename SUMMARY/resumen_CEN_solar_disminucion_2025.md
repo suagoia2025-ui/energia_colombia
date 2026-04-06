@@ -1,7 +1,17 @@
 # Resumen: disminución de la CEN solar en 2025 (profundización)
 
-Fuente principal del dato operativo: **XM**, *Reporte de gestión y sostenibilidad 2025*.  
-Marco legal: **CREG 148/2021**, **CREG 101 005/2022**, **CREG 101 011/2022**.
+## Fuente y ubicación en el informe XM
+
+| Qué | Detalle |
+|-----|---------|
+| **Documento** | XM S.A. E.S.P., *Reporte de gestión y sostenibilidad 2025* |
+| **Archivo en este proyecto** | `ARCHIVOS INFORMES/XM_ Reporte de gestión y sostenibilidad 2025 (1).pdf` |
+| **Página 52** | Sección **«Capacidad efectiva neta»**: CEN solar **1.928,02 → 1.594,08 MW**; atribución **principal** de la caída a la **finalización del periodo de transición** de **CREG 148/2021** y **CREG 101 011/2022**; **70 plantas (646,98 MW)** a **estado de pruebas**. |
+| **Página 20** | Cuadro de cifras del SIN y **nota al pie** del indicador **CEN**: desglose **47 plantas (581,40 MW)** por **CREG 148/2021** y **23 plantas (65,58 MW)** por **CREG 101 011/2022** (retorno a pruebas). |
+
+*La numeración de página corresponde a la del PDF lector (coincide con el folio impreso **52** en la página narrativa).*
+
+Marco legal (textos aparte en `ARCHIVOS LEGISLACION/`): **CREG 148/2021**, **CREG 101 005/2022**, **CREG 101 011/2022**.
 
 ---
 
@@ -80,4 +90,4 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 ---
 
-*Documento elaborado a partir del análisis conjunto del reporte XM 2025 y los textos de las resoluciones CREG citadas.*
+*Documento elaborado a partir del análisis conjunto del reporte XM 2025 (págs. 20 y 52 del PDF citado arriba) y los textos de las resoluciones CREG enlazadas.*
