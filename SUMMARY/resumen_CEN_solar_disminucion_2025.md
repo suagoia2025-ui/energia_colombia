@@ -106,6 +106,14 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 - **Función argumentativa:** refuerza con **voz institucional estatal** el mismo hilo que ANIF y la prensa: **riesgo de gobernanza** en la CREG; sigue **sin** explicar por sí solo la **caída de CEN solar 2025**, que XM atribuye a **transiciones y pruebas** ya normadas.
 
+### Cobertura mediática (*El Colombiano*, 19 dic. 2024)
+
+*Artículo de resumen del mismo informe de la PGN:* [«Inestabilidad en la Creg genera pérdidas billonarias en inversión energética, según la Procuraduría»](https://www.elcolombiano.com/negocios/inestabilidad-en-creg-afectaria-inversion-en-sector-energetico-segun-procuraduria-HN26096045) (Andrés Villamizar). Transcripción y notas en `NEWS/el-colombiano-creg-inestabilidad-inversion-procuraduria-2024.md`.
+
+- Sintetiza el vínculo **inestabilidad CREG ↔ flujos de inversión**, cita **Kalmanovitz**, **interinidad desde 2023**, **preocupación gremial** por **parálisis**, **tramos sin cuatro comisionados** (mismas fechas que en el informe), cifra **ANDEG** sobre **~$3 billones** de inversión no realizada **a agosto de 2024**, y situación a **diciembre de 2024** (cuatro comisionados, **uno en encargo**).
+
+- **Encaje con este resumen:** útil como **segunda fuente** (prensa) que **populariza** el mismo documento oficial; **no** altera la lectura técnica de la **CEN solar** (secciones 1–4): el debate de **inversión e incertidumbre regulatoria** es **paralelo** al efecto **transición + pruebas** descrito por **XM**.
+
 ---
 
 ## 7. Frase lista para argumentar
@@ -114,4 +122,4 @@ Por eso tiene sentido el **split** XM **47 vs 23 plantas**: **normas distintas**
 
 ---
 
-*Documento elaborado a partir del reporte XM 2025 (págs. 20 y 52), las resoluciones CREG enlazadas en el repositorio y el contexto de gobernanza ANIF y Procuraduría (sección 6).*
+*Documento elaborado a partir del reporte XM 2025 (págs. 20 y 52), las resoluciones CREG enlazadas en el repositorio y el contexto de gobernanza ANIF, Procuraduría y cobertura en prensa (sección 6).*
